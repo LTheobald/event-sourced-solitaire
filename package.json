@@ -1,0 +1,16 @@
+{
+  "name": "event-sourced-solitaire",
+  "version": "0.0.1",
+  "description": "Solitaire using event sourcing",
+  "repository": "https://github.com/LTheobald/event-sourced-solitaire",
+  "author": "Lee Theobald <Lee@LTheobald.co.uk>",
+  "license": "MIT",
+  "scripts" : {
+    "start": "parcel index.html --open"
+  },
+  "devDependencies": {
+    "parcel": "^2.3.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
